@@ -1,4 +1,13 @@
-### Hi there 👋
+# Greetings!
+
+#### You have found Adithya Hegde's Github page. Welcome!
+#### You may also have seen me  under the alias 'TheMonocledHamster'.
+
+#### I'm a Computer Science undergraduate with a project-oriented approach towards learning.
+#### You can find me on 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/adithya-hegde/)
+[<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/themonocledhamster/)
+
 
 <!--
 **Emperor-Adi/Emperor-Adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
